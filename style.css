@@ -1,6 +1,6 @@
 body {
-  background-color: #F7F9FC;
-  color: #575F7D;
+  background-color: #FEE9E1;
+  color: #34344A;
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
   line-height: 1.5;
@@ -8,12 +8,13 @@ body {
 
 h1, h2 {
     font-family: 'Playfair Display', serif;
-    color: #482728;
+    color: #34344A;
 }
 
 h1 {
-  font-size: 18pt;
+  font-size: 22pt;
   font-weight: 600;
+  margin-bottom: 20px;
 }
 
 h2 {
@@ -49,10 +50,10 @@ a:hover {
 
 .card {
   background-color: #fff;
-  border-radius: 4;
-  padding: 40px;
+  border-radius: 4px;
+  padding: 20px 40px 40px 40px;
   margin: 20px 0px;
-  box-shadow: 0px 10px 30px rgb(0,0,0,0.06);
+  box-shadow: 0px 10px 20px rgb(103,23,3,0.1);
 
 }
 
@@ -61,8 +62,8 @@ a:hover {
 }
 
 .img-circle {
-  width: 110px;
-  height: 110px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
 }
 
